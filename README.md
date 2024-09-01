@@ -5,7 +5,8 @@
 Utiliser ce programme sur une machine qui ne vous appartient pas ou à des fins malveillantes est totalement ILLÉGAL
 Je ne suis donc en aucun cas responsable vous êtes les seuls responsables de vos actes
 Vous pouvez vous faire bannir de [Discord](discord.com)
-<b> Installation </b>
+
+<h3> Installation </h3>
 
 * Install Node.js
 * Go to Settings
